@@ -1,0 +1,152 @@
+/**
+    Created by httngoc <httngoc@hueuni.edu.vn>
+ */
+body {
+  font: 14px "Helvetica Neue", Helvetica, Arial, sans-serif; }
+
+/*
+ Functions
+ */
+/*
+ Banner
+ */
+.banner {
+  min-height: 100px;
+  background: #2188b6 url(../imgs/b_logo.gif) no-repeat scroll 25% 0;
+  margin: 0;
+  padding-top: 70px;
+  padding-bottom: 10px; }
+  .banner p {
+    text-align: center;
+    color: #FFF;
+    font-size: 35px;
+    margin: 0;
+    text-transform: uppercase; }
+
+/*
+ Menu
+ */
+header.main-header .logo {
+  background: #2baf2b !important; }
+header.main-header .navbar {
+  background: #2baf2b !important; }
+  header.main-header .navbar .nav > li > a:active {
+    color: #fff;
+    background: #ed1c24; }
+  header.main-header .navbar .nav > li > a:hover {
+    color: #fff;
+    background: #1d901d !important; }
+  header.main-header .navbar .nav .open a {
+    background-color: inherit; }
+  header.main-header .navbar .nav .dropdown-menu {
+    background-color: #2baf2b; }
+    header.main-header .navbar .nav .dropdown-menu a:hover {
+      color: #fff;
+      background: #1d901d !important; }
+  header.main-header .navbar .active {
+    background: #ed1c24; }
+  header.main-header .navbar a {
+    color: #fff; }
+  header.main-header .navbar a:hover {
+    color: #fff;
+    background: #1d901d !important; }
+
+.navbar-nav li a {
+  padding-bottom: 12px; }
+
+.sidebar-menu {
+  white-space: normal; }
+
+.user-menu-info {
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+  max-width: 170px;
+  white-space: nowrap; }
+
+.main-header .sidebar-toggle {
+  padding-top: 16px;
+  padding-bottom: 17px; }
+
+/*
+.navbar-custom-menu {
+  position: absolute;
+  display: inline-block;
+}
+*/
+/*
+ Box
+ */
+.content .panel {
+  border: none;
+  padding-bottom: 10px;
+  margin-bottom: 10px; }
+  .content .panel .media {
+    padding: 0 6px; }
+  .content .panel .panel-heading {
+    background-color: #2188b6;
+    color: #FFF;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 5px 15px; }
+    .content .panel .panel-heading .name {
+      color: #FFF; }
+.content .panel-primary {
+  border: 1px solid #337ab7; }
+  .content .panel-primary img {
+    width: 65px; }
+
+kbd {
+  background-color: #2baf2b;
+  padding: 0 4px; }
+
+/**
+ Modal
+ */
+.modal {
+  padding-top: 2%; }
+  .modal .modal-header {
+    color: #fff;
+    background-color: #2188b6; }
+  .modal .nav-tabs li a {
+    color: #2188b6;
+    font-weight: bold; }
+  .modal .table tbody {
+    border-top: 0; }
+  .modal .media .media-left > img {
+    width: 100px; }
+  .modal .btn-back {
+    float: left; }
+  .modal .badge {
+    background-color: #2188b6; }
+
+/**
+ Statistic
+ */
+.statistic-title {
+  text-transform: uppercase;
+  font-weight: bold; }
+
+.statistic-container-title {
+  width: 30%; }
+
+.datepicker {
+  z-index: 9999 !important; }
+
+label.error {
+  color: #ed1c24; }
+
+span.news_date {
+  font-size: 11px;
+  font-style: italic;
+  color: black;
+  font-weight: normal; }
+
+.bullet_icon {
+  padding: 5px 11px;
+  background: url("../imgs/tinkhac.gif") 0 10px no-repeat;
+  border-bottom: 1px dotted #6e6b6b; }
+
+.alert a.close {
+  text-decoration: none; }
+
+/*# sourceMappingURL=custom.css.map */
