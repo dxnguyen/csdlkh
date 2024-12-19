@@ -5,181 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63c18c0d-c86e-4554-9e10-267bd66dce27" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/assets/Ionicons/css/ionicons.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/assets/Ionicons/fonts/ionicons28b5.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/assets/Ionicons/fonts/ionicons28b5.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/assets/Ionicons/fonts/ionicons28b5.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/assets/Ionicons/fonts/ionicons28b5.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/assets/admin-lte/dist/css/AdminLTE.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/assets/admin-lte/dist/css/skins/skin-blue-light.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/assets/admin-lte/dist/js/adminlte.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/assets/admin-lte/plugins/iCheck/icheck.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/assets/admin-lte/plugins/iCheck/square/blue.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/assets/admin-lte/plugins/iCheck/square/blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/assets/admin-lte/plugins/iCheck/square/blue@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/assets/blueimp-file-upload/js/jquery.fileupload.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/assets/blueimp-file-upload/js/jquery.iframe-transport.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/assets/blueimp-file-upload/js/vendor/jquery.ui.widget.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/assets/bootstrap-datepicker/dist/css/bootstrap-datepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/assets/bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/assets/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/assets/bootstrap-datepicker/dist/locales/bootstrap-datepicker.vi.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/assets/bootstrap/dist/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/assets/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/assets/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/assets/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/assets/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/assets/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/assets/bootstrap/dist/fonts/glyphicons-halflings-regulard41d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/assets/bootstrap/dist/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/assets/fastclick/lib/fastclick.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/assets/font-awesome/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/assets/font-awesome/fonts/fontawesome-webfont3e6e.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/assets/font-awesome/fonts/fontawesome-webfont3e6e.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/assets/font-awesome/fonts/fontawesome-webfont3e6e.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/assets/font-awesome/fonts/fontawesome-webfont3e6e.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/assets/font-awesome/fonts/fontawesome-webfont3e6e.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/assets/font-awesome/fonts/fontawesome-webfontd41d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/assets/jquery-slimscroll/jquery.slimscroll.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/assets/jquery-validation/dist/jquery.validate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/assets/jquery-validation/src/localization/messages_vi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/assets/jquery/dist/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/assets/remarkable-bootstrap-notify/dist/bootstrap-notify.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/assets/select2/dist/css/select2.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/assets/select2/dist/js/i18n/vi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/assets/select2/dist/js/select2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/bxslider/images/arrow-left.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/bxslider/images/arrow-right.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/bxslider/images/bx_loader.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/colors/theme-skin-color-set-1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/css-plugin-collections.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/custom-bootstrap-margin-padding.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/direct-chat.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/font-awesome-animation.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/fonts/flexslider-icon-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/fonts/flexslider-icon-3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/fonts/flexslider-icon-4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/fonts/flexslider-icon.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/fonts/flexslider-icond41d.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/images/ui-icons_444444_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/images/ui-icons_555555_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/images/ui-icons_777620_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/images/ui-icons_777777_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/images/ui-icons_cc0000_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/images/ui-icons_ffffff_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/jquery-ui.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/lightbox/close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/lightbox/loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/lightbox/next.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/lightbox/prev.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/menuzord-skins/menuzord-rounded-boxed.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/nivolightbox-themes/default/close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/nivolightbox-themes/default/close@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/nivolightbox-themes/default/loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/nivolightbox-themes/default/loading@2x.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/nivolightbox-themes/default/next.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/nivolightbox-themes/default/next@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/nivolightbox-themes/default/prev.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/nivolightbox-themes/default/prev@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/owl.video.play.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/pe-icon-7-stroke.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/prettyPhoto/dark_rounded/btnNext.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/prettyPhoto/dark_rounded/btnPrevious.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/prettyPhoto/dark_rounded/contentPattern.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/prettyPhoto/dark_rounded/loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/prettyPhoto/dark_rounded/sprite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/prettyPhoto/dark_square/btnNext.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/prettyPhoto/dark_square/btnPrevious.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/prettyPhoto/dark_square/loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/prettyPhoto/dark_square/sprite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/prettyPhoto/default/default_thumb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/prettyPhoto/default/loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/prettyPhoto/default/sprite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/prettyPhoto/default/sprite_next.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/prettyPhoto/default/sprite_prev.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/prettyPhoto/default/sprite_x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/prettyPhoto/default/sprite_y.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/prettyPhoto/facebook/btnNext.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/prettyPhoto/facebook/btnPrevious.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/prettyPhoto/facebook/contentPatternBottom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/prettyPhoto/facebook/contentPatternLeft.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/prettyPhoto/facebook/contentPatternRight.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/prettyPhoto/facebook/contentPatternTop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/prettyPhoto/facebook/default_thumbnail.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/prettyPhoto/facebook/loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/prettyPhoto/facebook/sprite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/prettyPhoto/light_rounded/btnNext.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/prettyPhoto/light_rounded/btnPrevious.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/prettyPhoto/light_rounded/loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/prettyPhoto/light_rounded/sprite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/prettyPhoto/light_square/btnNext.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/prettyPhoto/light_square/btnPrevious.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/prettyPhoto/light_square/sprite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/responsive.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/style-main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/utility-classes.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/css/ytplayer/ytp-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/fonts/Pe-icon-7-strokebb1d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/fonts/Pe-icon-7-strokebb1d.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/fonts/Pe-icon-7-strokebb1d.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/fonts/Pe-icon-7-strokebb1d.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/fonts/Pe-icon-7-stroked41d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/fonts/fontawesome-webfont3295.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/fonts/fontawesome-webfont3295.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/fonts/fontawesome-webfont3295.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/fonts/fontawesome-webfont3295.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/fonts/fontawesome-webfont3295.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/fonts/fontawesome-webfontd41d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/images/1920x1280.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/images/KhoaQuocTe.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/images/apple-touch-icon-114x114.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/images/apple-touch-icon-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/images/apple-touch-icon-72x72.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/images/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/images/bg5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/images/close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/images/dhhue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/images/dhkhoahoc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/images/dhkinhte.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/images/dhluat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/images/dhnghethuat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/images/dhngoaingu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/images/dhnonglam.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/images/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/images/khoadulich.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/images/khoathechat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/images/logo-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/images/logo-wide.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/images/logo_huet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/images/logo_supham.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/images/logo_viendtm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/images/logo_yduoc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/images/pattern1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/images/pattern2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/images/pattern3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/images/phanhieuquangtri.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/images/shadow-overlay.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/images/title-dots.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/images/vien-CNSH.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/images/vien-TNMT.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/images/vnmap.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/js/custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/js/jquery-2.2.4.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/js/jquery-plugin-collection.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/csdl/js/jquery-ui.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/imgs/avatar.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/imgs/b_logo.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/imgs/faq.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/imgs/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/imgs/tinkhac.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/index - Copy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/libs/custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/csdlkh/libs/custom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/csdlkh/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/csdlkh/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/administrator/cache/_media_version/119415951391d83d3d376ae294e976f4-cache-_media_version-8c98d7c15b0dc18dbfbba3b46db2defc.php" beforeDir="false" afterPath="$PROJECT_DIR$/administrator/cache/_media_version/119415951391d83d3d376ae294e976f4-cache-_media_version-8c98d7c15b0dc18dbfbba3b46db2defc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/administrator/cache/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/administrator/cache/autoload_psr4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/administrator/logs/error.php" beforeDir="false" afterPath="$PROJECT_DIR$/administrator/logs/error.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,7 +38,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "feature",
     "last_opened_file_path": "D:/xampp8/htdocs/csdlkh/templates/csdlkh/csdl/images",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -227,6 +56,21 @@
       <recent name="D:\xampp8\htdocs\csdlkh\language\en-GB" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="csdlkh" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="csdlkh" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -236,7 +80,8 @@
       <option name="presentableId" value="Default" />
       <updated>1734256593731</updated>
       <workItem from="1734256594787" duration="2016000" />
-      <workItem from="1734520809827" duration="9580000" />
+      <workItem from="1734520809827" duration="10162000" />
+      <workItem from="1734642957405" duration="803000" />
     </task>
     <servers />
   </component>

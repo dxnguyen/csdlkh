@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<layout title="COM_POSITIONS_TITLE_LIST_VIEW_POSITIONS" option="View">
+        <message>
+                        <![CDATA[COM_POSITIONS_TITLE_LIST_VIEW_POSITIONS_DESC]]>
+        </message>
+	</layout>
+	
+</metadata>

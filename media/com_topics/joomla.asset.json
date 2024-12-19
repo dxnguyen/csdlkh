@@ -1,0 +1,29 @@
+{
+  "$schema": "https://developer.joomla.org/schemas/json-schema/web_assets.json",
+  "name": "com_topics",
+  "version": "CVS: 1.0.0",
+  "license": "GNU General Public License version 2 or later; see LICENSE.txt",
+  "assets": [
+    {
+      "name": "com_topics.admin",
+      "type": "style",
+      "uri": "com_topics/admin.css"
+    },
+    {
+      "name": "com_topics.admin",
+      "type": "script",
+      "uri": "com_topics/admin.js",
+      "dependencies": [
+        "jquery"
+      ],
+      "attributes": {
+        "defer": true
+      }
+    },
+    {
+        "name": "com_topics.list",
+        "type": "style",
+        "uri": "com_topics/list.css"
+    }
+  ]
+}

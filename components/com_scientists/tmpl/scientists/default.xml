@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<layout title="COM_SCIENTISTS_TITLE_LIST_VIEW_SCIENTISTS" option="View">
+        <message>
+                        <![CDATA[COM_SCIENTISTS_TITLE_LIST_VIEW_SCIENTISTS_DESC]]>
+        </message>
+	</layout>
+	
+</metadata>

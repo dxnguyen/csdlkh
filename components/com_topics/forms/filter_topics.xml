@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+    <fields name="filter">
+        <field name="search" type="text" hint="COM_TOPICS_SEARCH_FILTER_SUBMIT"
+               label="COM_USERS_FILTER_SEARCH_DESC"
+               class="js-stools-search-string" />
+
+        <field name="department_id" type="sql" label="COM_TOPICS_FORM_LBL_DETAIL_DEPARTMENT_ID" query="SELECT `id` AS `id`, `title` AS val FROM `#__departments`" header="COM_TOPICS_TOPICS_DEPARTMENT_ID_FILTER" key_field="id" value_field="val" class="inputbox" onchange="this.form.submit()" translate="true"/>
+
+
+    </fields>
+    <fields name="list">
+
+        <field name="fullordering"
+               type="list"
+               label="COM_TOPICS_LIST_FULL_ORDERING"
+               description="COM_TOPICS_LIST_FULL_ORDERING_DESC"
+               onchange="this.form.submit();"
+               default="a.id DESC"
+        >
+            <option value="">JGLOBAL_SORT_BY</option>
+            <option value="a.id ASC">COM_TOPICS_ID_ASC</option><option value="a.id DESC">COM_TOPICS_ID_DESC</option><option value="a.state ASC">COM_TOPICS_STATE_ASC</option><option value="a.state DESC">COM_TOPICS_STATE_DESC</option><option value="a.ordering ASC">COM_TOPICS_ORDERING_ASC</option><option value="a.ordering DESC">COM_TOPICS_ORDERING_DESC</option><option value="a.title ASC">COM_TOPICS_TITLE_ASC</option><option value="a.title DESC">COM_TOPICS_TITLE_DESC</option><option value="a.code ASC">COM_TOPICS_CODE_ASC</option><option value="a.code DESC">COM_TOPICS_CODE_DESC</option><option value="a.level ASC">COM_TOPICS_LEVEL_ASC</option><option value="a.level DESC">COM_TOPICS_LEVEL_DESC</option><option value="a.department_id ASC">COM_TOPICS_DEPARTMENT_ID_ASC</option><option value="a.department_id DESC">COM_TOPICS_DEPARTMENT_ID_DESC</option>
+
+        </field>
+
+       <field name="limit"
+               type="limitbox"
+               label="COM_TOPICS_LIST_LIMIT"
+               description="COM_TOPICS_LIST_LIMIT_DESC"
+               class="input-mini"
+               default="25"
+               onchange="this.form.submit();"
+        />
+
+    </fields>
+</form>

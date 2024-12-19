@@ -1,6 +1,10 @@
 <?php
 defined('_JEXEC') or die;
 return [
+	'Departments\\Component\\Departments\\Administrator\\' => [JPATH_ADMINISTRATOR . '/components/com_departments/src'],
+	'Departments\\Component\\Departments\\Site\\' => [JPATH_SITE . '/components/com_departments/src'],
+	'Homepage\\Component\\Homepage\\Administrator\\' => [JPATH_ADMINISTRATOR . '/components/com_homepage/src'],
+	'Homepage\\Component\\Homepage\\Site\\' => [JPATH_SITE . '/components/com_homepage/src'],
 	'Joomla\\Component\\Actionlogs\\Administrator\\' => [JPATH_ADMINISTRATOR . '/components/com_actionlogs/src'],
 	'Joomla\\Component\\Admin\\Administrator\\' => [JPATH_ADMINISTRATOR . '/components/com_admin/src'],
 	'Joomla\\Component\\Associations\\Administrator\\' => [JPATH_ADMINISTRATOR . '/components/com_associations/src'],
@@ -250,4 +254,12 @@ return [
 	'Joomla\\Plugin\\Workflow\\Featuring\\' => [JPATH_PLUGINS . '\workflow/featuring/src'],
 	'Joomla\\Plugin\\Workflow\\Notification\\' => [JPATH_PLUGINS . '\workflow/notification/src'],
 	'Joomla\\Plugin\\Workflow\\Publishing\\' => [JPATH_PLUGINS . '\workflow/publishing/src'],
+	'Papers\\Component\\Papers\\Administrator\\' => [JPATH_ADMINISTRATOR . '/components/com_papers/src'],
+	'Papers\\Component\\Papers\\Site\\' => [JPATH_SITE . '/components/com_papers/src'],
+	'Positions\\Component\\Positions\\Administrator\\' => [JPATH_ADMINISTRATOR . '/components/com_positions/src'],
+	'Positions\\Component\\Positions\\Site\\' => [JPATH_SITE . '/components/com_positions/src'],
+	'Scientists\\Component\\Scientists\\Administrator\\' => [JPATH_ADMINISTRATOR . '/components/com_scientists/src'],
+	'Scientists\\Component\\Scientists\\Site\\' => [JPATH_SITE . '/components/com_scientists/src'],
+	'Topics\\Component\\Topics\\Administrator\\' => [JPATH_ADMINISTRATOR . '/components/com_topics/src'],
+	'Topics\\Component\\Topics\\Site\\' => [JPATH_SITE . '/components/com_topics/src'],
 ];
